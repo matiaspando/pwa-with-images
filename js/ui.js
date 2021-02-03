@@ -21,7 +21,7 @@ if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
     ({
       video: {
         facingMode: {
-          exact: 'environment'
+          ideal: 'environment'
         }
       }
     }).then(function (stream) {

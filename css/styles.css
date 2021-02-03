@@ -1,8 +1,8 @@
 /* colours */
 :root{
-  --primary: #FFE9D2;
-  --secondary: #FFE1C4;
-  --title: #FF8816;
+  --primary: #d2f1ff;
+  --secondary: rgba(32,43,86,1);
+  --title: rgba(70,177,231,1);
 }
 
 /* layout styles */
